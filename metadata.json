@@ -1,0 +1,5 @@
+{
+  "name": "AI Codenames",
+  "description": "A Codenames game where players team up with an AI spymaster. The AI provides clues, and players must guess the words for their team while avoiding the opponent's words, neutral words, and the assassin.",
+  "requestFramePermissions": []
+}
